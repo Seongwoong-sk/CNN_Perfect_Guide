@@ -1,6 +1,6 @@
 # 딥러닝 CNN 완벽 가이드 - Fundamental편
 
-**Inflearn**에서 제공하는 [딥러닝 CNN 완벽 가이드 - Fundamental편](https://www.inflearn.com/course/%EB%94%A5%EB%9F%AC%EB%8B%9D-cnn-%EC%99%84%EB%B2%BD-%EA%B8%B0%EC%B4%88/dashboard)를 공부하고 정리한 문서입니다.    
+**Inflearn**에서 제공하는 [딥러닝 CNN 완벽 가이드 - Fundamental편](https://www.inflearn.com/course/%EB%94%A5%EB%9F%AC%EB%8B%9D-cnn-%EC%99%84%EB%B2%BD-%EA%B8%B0%EC%B4%88/dashboard)을 공부하고 정리한 문서입니다.    
 
 **Framework**는 **Tensorflow 2.x**로 진행되었습니다.
 
