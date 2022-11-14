@@ -121,7 +121,7 @@
 
 
 
-### Section XIII. 종합 실습 2 - 캐글 Plant Pathology(나무잎 병 진단) 경연 대히
+### Section XIII. 종합 실습 2 - 캐글 Plant Pathology(나무잎 병 진단) 경연 대
 
 - [x] Plant Pathology 캐글 경연대회 및 데이터 세트 가공
 - [x] Augmentation 적용 분석, Sequence기반 Dataset 생성
